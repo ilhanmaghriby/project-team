@@ -1,0 +1,71 @@
+@media (max-width: 670px) {
+  .container {
+    text-align: center;
+    margin: 50px 20px;
+  }
+
+  .header-left {
+    padding-left: 5px;
+    padding-top: 25px;
+  }
+
+  .header-left img {
+    height: 17px;
+  }
+
+  .header-right a {
+    padding: 0px 20px;
+  }
+
+  .main img {
+    padding-top: 60px;
+    height: 100px;
+    width: 100%;
+  }
+
+  .food p {
+    font-size: 10px;
+  }
+  .food h2 {
+    font-size: 20px;
+  }
+  .food img {
+    height: 80px;
+  }
+  .column {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 10px;
+  }
+
+  .tombol-order {
+    width: 120px;
+    height: 50px;
+    font-size: 15px;
+  }
+  .order h2 {
+    font-size: 15px;
+  }
+  .bagian-order {
+    padding-bottom: 20px;
+  }
+  .bagian-bawah {
+    padding-right: 5px;
+  }
+  .bagian-bawah p {
+    padding-right: 0px;
+    font-size: 10px;
+  }
+  .bagian-bawah img {
+    height: 20px;
+  }
+  .whatsapp {
+    padding-left: 0px;
+  }
+  .instagram {
+    padding-left: 0px;
+  }
+  .bagian-bawah-2 {
+    font-size: 10px;
+  }
+}
