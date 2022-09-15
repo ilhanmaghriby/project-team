@@ -5,7 +5,7 @@ body {
 
 header {
   background-color: #b5bba8;
-  padding: 5px 25px;
+  padding: 8px 25px;
   position: fixed;
   height: 65px;
   width: 100%;
@@ -17,22 +17,28 @@ header {
   float: left;
   padding: 20px 0px 20px 25px;
 }
+.gambar-main {
+  padding-bottom: 100px;
+}
 
 .header-right {
   float: right;
-  background-color: #8fffa0;
+  background-color: #aff6ba;
   transition: all 0.5s;
   margin-right: 50px;
-  margin-top: 10px;
+  margin-top: 12px;
+  border-radius: 10px;
 }
 
 .header-right:hover {
-  background-color: #c7ffcf;
+  background-color: #def2e1;
 }
 
 .header-right a {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large;
   line-height: 40px;
-  padding: 0px 10px;
+  padding: 0px 12px;
   color: black;
   display: block;
   text-decoration: none;
@@ -41,10 +47,6 @@ header {
 .container {
   margin: 90px 120px;
   text-align: center;
-}
-
-.gambar-main {
-  padding-bottom: 100px;
 }
 
 .main {
